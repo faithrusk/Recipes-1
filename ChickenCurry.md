@@ -5,7 +5,7 @@ Cooking duration: 45 minutes for marinating and 30 minutes for cooking.
 ## Ingredients
 * Curry ingredients
 * 1lb chicken
-* 1 medium onion
+* 1 large onion
 * 1 teaspoon ginger paste
 * 1/2 teaspoon garlic paste
 * 1/4 ounce mixed spice powder (½ stick of cinnamon, 3 cardamom pods, 6 cloves; ground to a powder in a spice grinder or coffee grinder)
